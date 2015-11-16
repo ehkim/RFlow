@@ -1,0 +1,6 @@
+!contents -R2 -g -p -f -h
+
+
+|staf command fixture                                                     |
+|service|location|request|submitRequest?|responseMessage?|getErrorMessage?|
+|PING   |local   |PING   |              |                |                |

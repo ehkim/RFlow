@@ -1,0 +1,5 @@
+!define TEST_SYSTEM {slim} 
+
+!path ./target/classes
+!path C:\STAF\bin\JSTAF.jar
+!path C:\Users\ekim\Downloads\tools\givwenzen-with-dependencies-1.0.3.jar
