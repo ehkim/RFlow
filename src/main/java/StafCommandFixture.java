@@ -11,13 +11,13 @@ import java.util.regex.Pattern;
  * Created by ekim on 2015-11-04.
  */
 public class StafCommandFixture {
-    private String service;
-    private String location;
-    private String request;
-    private String pattern;
-    private String responseMsg;
-    private int returnCode = 0;
-    private StafHandleInterface handle = null;
+    protected String service;
+    protected String location;
+    protected String request;
+    protected String pattern;
+    protected String responseMsg;
+    protected int returnCode = 0;
+    protected StafHandleInterface handle = null;
 
     public StafCommandFixture() {
         try {
